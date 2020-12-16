@@ -1,3 +1,4 @@
+/*
 import {
     Button,
     Card,
@@ -59,3 +60,4 @@ class AnnotatedLayout extends React.Component{
     };
 }
 export default AnnotatedLayout;
+*/
